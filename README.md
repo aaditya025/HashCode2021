@@ -21,7 +21,7 @@ The goal is to maximize, per team, the number of different ingredients used in a
 | Name               | Github                                                       | Role                                     |
 | :----------------- | :----------------------------------------------------------- | :--------------------------------------- |
 | Aaditya Maheshwari | [@aaditya025](https://github.com/aaditya025) | Programmer                 |
-| Yogendra Singh Solanki       | [@yogendra]()                         | Programmer                               |
+| Yogendra Singh Solanki       | [@]()                         | Programmer                               |
 | Akilesh Arya  | [@akhilesharya](https://github.com/akhilesharya)                 | Programmer |
 
 hub: [i3 LAB] from [Techno India NJR Institute of Technology, India](http://www.technonjr.org) (Udaipur, India)
